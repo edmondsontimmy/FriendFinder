@@ -1,0 +1,23 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "friend finer app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmondsontimmy/FriendFinder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "Timothy Edmondson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmondsontimmy/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/edmondsontimmy/FriendFinder#readme"
+}

@@ -1,0 +1,35 @@
+.jumbotron{
+	font-family: 'Cormorant Infant', serif;
+	text-align: center;
+	background-color: pink;
+
+}
+.page-header{
+	margin-top:0;
+	background-color:pink;
+	text-align: center;
+	font-size: 60px;
+	font-family: 'Cormorant Infant', serif;
+}
+.panel-heading{
+	font-family: 'Cormorant Infant', serif;
+	font-size:25px;
+}
+
+p{
+	font-size:40px;
+	font-family: 'Cormorant Infant', serif;
+	color:navy;
+	text-align: center;
+}
+
+.form-group{
+	font-size:30px;
+	font-family: 'Cormorant Infant', serif;
+	color: purple;
+}
+
+li{
+	font-size:20px;
+	font-family: 'Cormorant Infant', serif;
+}
